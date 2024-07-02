@@ -3,6 +3,7 @@ este es el código de la calculadora para el parcial de 3º corte de la clase pr
 
 # Calculadora en Java con Swing
 
+El arcghivo de la calculadora sale con el nombre de Main.java
 Este proyecto implementa una calculadora básica en Java utilizando la biblioteca Swing para la interfaz gráfica.
 
 ## Funcionamiento
@@ -24,23 +25,31 @@ La interfaz gráfica de la calculadora incluye:
 - **Botón de Igual (=)**: Calcula y muestra el resultado en la pantalla.
 - **Botón de Limpieza (C)**: Reinicia la pantalla, eliminando cualquier número o resultado mostrado.
 
-## Uso
+## Uso instrucciones para IntelliJ IDEA
 
-Para ejecutar la calculadora en tu máquina local, sigue estos pasos:
+### Abrir el Proyecto
 
-1. **Abrir el Proyecto**:
-   - Abre tu entorno de desarrollo Java (Eclipse, IntelliJ, NetBeans, etc.).
-   - Importa el proyecto o abre el archivo `Calculadora.java`.
+1. **Importa el proyecto en IntelliJ IDEA**:
+   - Abre IntelliJ IDEA.
+   - Selecciona `File` -> `Open` y navega hasta el directorio donde has clonado o descargado el proyecto de la calculadora.
 
-2. **Compilar y Ejecutar**:
-   - Compila y ejecuta la aplicación desde tu entorno de desarrollo.
+### Configuración de Ejecución
 
-3. **Operar la Calculadora**:
+1. **Asegúrate de que la clase `Main` tenga un método `main` definido**:
+   - Abre el archivo `Main.java` en IntelliJ IDEA.
+   - Verifica que el método `main` esté definido como se muestra en el código proporcionado.
+
+### Compilar y Ejecutar
+
+1. **Ejecutar la aplicación**:
+   - Haz clic en el botón de ejecución (`Run`) que se encuentra en la esquina superior derecha de IntelliJ IDEA.
+   - Asegúrate de tener la clase `Main` seleccionada como la configuración de ejecución principal.
+   
+2. **Interactuar con la Calculadora**:
    - Una vez ejecutada, la calculadora se abrirá en una ventana.
-   - Utiliza los botones numéricos para ingresar los números deseados.
-   - Utiliza los botones de operación (+, -, *, /) para realizar las operaciones correspondientes.
-   - El botón "=" calcula y muestra el resultado en la pantalla.
-   - El botón "C" limpia la pantalla, reiniciando la calculadora para realizar nuevos cálculos.
+   - Utiliza los botones numéricos y de operación para realizar cálculos matemáticos básicos.
+   - La pantalla de la calculadora mostrará los números ingresados y los resultados de las operaciones.
+
 
 ## Autor
 
