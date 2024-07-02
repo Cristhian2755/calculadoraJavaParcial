@@ -42,14 +42,6 @@ Para ejecutar la calculadora en tu máquina local, sigue estos pasos:
    - El botón "=" calcula y muestra el resultado en la pantalla.
    - El botón "C" limpia la pantalla, reiniciando la calculadora para realizar nuevos cálculos.
 
-## Contribución
-
-Si deseas contribuir al desarrollo de esta calculadora, ¡estamos abiertos a sugerencias y mejoras! Siéntete libre de hacer un fork del repositorio y enviar pull requests con tus cambios.
-
 ## Autor
 
-Este proyecto fue desarrollado por [Tu Nombre]. Para cualquier pregunta o comentario, no dudes en ponerte en contacto.
-
-## Licencia
-
-Este proyecto está bajo la Licencia [Tipo de Licencia]. Consulta el archivo LICENSE para más detalles.
+Este proyecto fue desarrollado por Cristhian Eduardo Vargas Suarez, Estudiante de Redes y Sistemas ISER
